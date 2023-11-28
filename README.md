@@ -1,2 +1,2 @@
 # GNN
-try to understand GNN
+Graph Neural Network (for Graph Data)
